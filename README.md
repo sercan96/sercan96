@@ -1,7 +1,5 @@
-<h1>Hi 👋, I'm Sercan Saglam</h1>
+<h2>Hi 👋, I'm Sercan Saglam</h2>
 <h3>I am a .NET developer and also a professional Game Developer.</h3>
-
-- 🌱 I’m currently learning **Javascript**
 
 <p align="left">
 </p>
