@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sercan Saglam</h1>
-<h3 align="center">I am a .NET developer and also a professional game developer.</h3>
+<h1>Hi 👋, I'm Sercan Saglam</h1>
+<h3>I am a .NET developer and also a professional game developer.</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
